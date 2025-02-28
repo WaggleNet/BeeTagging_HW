@@ -15,7 +15,6 @@ GPIO.setup(ENA, GPIO.OUT)
 
 #internal counter for testing 
 counter = 0
-stepRate = 10
 
 #motor motion
 #
